@@ -503,3 +503,9 @@ https://www.osx86.net/files/file/25-ionetworkingfamilykextzip/
 ## `SmallTree-Intel-211-AT-PCIe-GBE.kext`
 file flying on the internet without proper license, can be found on https://kb.amd-osx.com/guides/mojavewin/setting-up-clover-for-amd-vanilla/kexts.html
 
+## Kext-Droplet-Big-Sur - `Kext-Droplet-V2.dmg`
+https://github.com/chris1111/Kext-Droplet-Big-Sur/releases/tag/V2
+
+```
+Since present on GitHub I assume it's some form of free license. Feel free to let me know if not. 
+```
