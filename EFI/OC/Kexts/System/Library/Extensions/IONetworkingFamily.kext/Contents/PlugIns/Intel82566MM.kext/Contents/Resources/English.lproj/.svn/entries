@@ -1,0 +1,40 @@
+8
+
+dir
+6
+http://82566mm-osx-driver.googlecode.com/svn/trunk/Intel82566MM.kext/Contents/Resources/English.lproj
+http://82566mm-osx-driver.googlecode.com/svn
+
+
+
+2009-06-20T05:07:09.101986Z
+5
+dingguijin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+97a7c65e-f76f-11dd-9fdb-3debd5008f28
+
+InfoPlist.strings
+file
+
+
+
+
+2009-07-21T20:43:13.000000Z
+d72878bb656f235c73b049056cd30dba
+2009-06-20T05:07:09.101986Z
+5
+dingguijin
+

@@ -1,0 +1,31 @@
+8
+
+dir
+6
+http://82566mm-osx-driver.googlecode.com/svn/trunk/Intel82566MM.kext/Contents/Resources
+http://82566mm-osx-driver.googlecode.com/svn
+
+
+
+2009-06-20T05:07:09.101986Z
+5
+dingguijin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+97a7c65e-f76f-11dd-9fdb-3debd5008f28
+
+English.lproj
+dir
+
