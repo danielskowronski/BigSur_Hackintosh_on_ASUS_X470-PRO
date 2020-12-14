@@ -1,5 +1,10 @@
 # BigSur_Hackintosh_on_ASUS_X470-PRO
 
+## Disclaimer
+Most of the repo consists of files not created by me - this is only compilation. See COPYRIGHTS.md
+
+## Setup description
+
 This is my snapshot of **EFI** volume for OpenCore BigSur based Hackintosh on the following setup:
 
 * motherboard: ASUS X470-PRO
