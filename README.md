@@ -11,6 +11,7 @@ This is my snapshot of **EFI** volume for OpenCore BigSur based Hackintosh on th
 * CPU: AMD Ryzen 2700X (`17h`)
 * memory: 32GB
 * network adapter: Intel I211AT (embedded)
+* GPU: Nvidia GTX 780 Ti (Kepler)
 * USB 3.1
 * PCIe mounted NVMe disk - but normal SATA disk should work too
 
@@ -23,6 +24,4 @@ This may not work out-of-the-box, but after ystem nstall you can load kext with 
 ## GPU
 
 ### nVidia
-On BigSur nVidia GPUs other than Kepler based (GTX 6xx, GTX 7xx and some Quadro models) won't work except VESA mode 1280x720, on BigSur nVida other than Kepler based (6xx and 7xx) won't work in proper mode. 
-
-Right now I'm waiting for legacy GTX 780 Ti to arrive so I can confirm.
+On BigSur nVidia GPUs other than Kepler based (GTX 6xx, GTX 7xx and some Quadro models) won't work except VESA mode 1280x720, on BigSur nVida other than Kepler based (6xx and 7xx) won't work in proper mode - so called _Web Driver_ is not working on Catalina and BigSur.
