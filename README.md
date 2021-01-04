@@ -21,7 +21,11 @@ Refer to https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#pr
 
 This may not work out-of-the-box, but after ystem nstall you can load kext with driver: use `NetworkAdapter/Kext-Droplet-V2.dmg` to load `NetworkAdapter/SmallTree-Intel-211-AT-PCIe-GBE.kext`
 
+### WiFi and BT
+This is mostly for Apple Watch Unlock support - Fenvi FV-HB1200B works nicely.
+
 ## GPU
 
 ### nVidia
 On BigSur nVidia GPUs other than Kepler based (GTX 6xx, GTX 7xx and some Quadro models) won't work except VESA mode 1280x720, on BigSur nVida other than Kepler based (6xx and 7xx) won't work in proper mode - so called _Web Driver_ is not working on Catalina and BigSur.
+
