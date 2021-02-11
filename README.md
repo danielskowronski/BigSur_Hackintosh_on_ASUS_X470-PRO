@@ -17,10 +17,6 @@ This is my snapshot of **EFI** volume for OpenCore BigSur based Hackintosh on th
 
 Refer to https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites for rest of knowledge.
 
-## Network
-
-This may not work out-of-the-box, but after ystem nstall you can load kext with driver: use `NetworkAdapter/Kext-Droplet-V2.dmg` to load `NetworkAdapter/SmallTree-Intel-211-AT-PCIe-GBE.kext`
-
 ### WiFi and BT
 This is mostly for Apple Watch Unlock support - Fenvi FV-HB1200B works nicely.
 

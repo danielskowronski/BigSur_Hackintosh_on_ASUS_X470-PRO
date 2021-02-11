@@ -1,0 +1,40 @@
+8
+
+dir
+6
+http://82566mm-osx-driver.googlecode.com/svn/trunk/Intel82566MM.kext/Contents/MacOS
+http://82566mm-osx-driver.googlecode.com/svn
+
+
+
+2009-07-08T01:55:38.341299Z
+6
+dingguijin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+97a7c65e-f76f-11dd-9fdb-3debd5008f28
+
+Intel82566MM
+file
+
+
+
+
+2009-07-21T20:43:13.000000Z
+dfff47a4e82198d41b811386e1867244
+2009-07-08T01:55:38.341299Z
+6
+dingguijin
+
