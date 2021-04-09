@@ -287,24 +287,6 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>SmallTreeIntel82576.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SmallTreeIntel82576</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
@@ -1600,8 +1582,6 @@
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
-			<key>SetApfsTrimTimeout</key>
-			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
@@ -1629,10 +1609,6 @@
 			<string>None</string>
 			<key>HideAuxiliary</key>
 			<false/>
-			<key>LauncherOption</key>
-			<string>Disabled</string>
-			<key>LauncherPath</key>
-			<string>Default</string>
 			<key>PickerAttributes</key>
 			<integer>31</integer>
 			<key>PickerAudioAssist</key>
@@ -1700,6 +1676,8 @@
 			<false/>
 			<key>BlacklistAppleUpdate</key>
 			<false/>
+			<key>BootProtect</key>
+			<string>None</string>
 			<key>DmgLoading</key>
 			<string>Signed</string>
 			<key>EnablePassword</key>
@@ -1866,8 +1844,6 @@
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
-			<key>MaxBIOSVersion</key>
-			<false/>
 			<key>MLB</key>
 			<string>F5K008303CDK3F7JC</string>
 			<key>ProcessorType</key>
@@ -1893,8 +1869,6 @@
 		<true/>
 		<key>UpdateSMBIOSMode</key>
 		<string>Create</string>
-		<key>UseRawUuidEncoding</key>
-		<false/>
 	</dict>
 	<key>UEFI</key>
 	<dict>
@@ -2030,8 +2004,6 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
-			<key>DisableSecurityPolicy</key>
-			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
