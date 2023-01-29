@@ -1,5 +1,11 @@
 # BigSur_Hackintosh_on_ASUS_X470-PRO
 
+## This project is obsolete!
+
+While it still works on described hardware platform with Big Sur, it was never tested on Monterey, let alone Ventura. I no longer use this software configuration and can't help with any issues, but I'm keeping this source code as a public archive. 
+
+---
+
 ## Disclaimer
 Most of the repo consists of files not created by me - this is only compilation. See COPYRIGHTS.md
 
